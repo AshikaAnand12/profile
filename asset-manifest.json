@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/profile/static/css/main.cd0db3e3.css",
+    "main.js": "/profile/static/js/main.77046ce2.js",
+    "static/media/java_app.png": "/profile/static/media/java_app.b56ad958252de193501a.png",
+    "static/media/js.png": "/profile/static/media/js.b4da4ac1abafe2203c28.png",
+    "static/media/Ashika_logo.png": "/profile/static/media/Ashika_logo.cc538b856c7980b06c39.png",
+    "static/media/ashika.jpg": "/profile/static/media/ashika.a129c6fd1dd14825a379.jpg",
+    "static/media/face_mainupulation.png": "/profile/static/media/face_mainupulation.d2ea03da49767000dae4.png",
+    "static/media/Resume.pdf": "/profile/static/media/Resume.7edbd1d26af1cabe5620.pdf",
+    "static/media/image_segmentation.png": "/profile/static/media/image_segmentation.3226ebe1b58027faa995.png",
+    "static/media/gnn.png": "/profile/static/media/gnn.65cbe56ed4b86c8f9b4a.png",
+    "static/media/colab.png": "/profile/static/media/colab.29d3e2e7b4a4309cb6fe.png",
+    "index.html": "/profile/index.html",
+    "main.cd0db3e3.css.map": "/profile/static/css/main.cd0db3e3.css.map",
+    "main.77046ce2.js.map": "/profile/static/js/main.77046ce2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cd0db3e3.css",
+    "static/js/main.77046ce2.js"
+  ]
+}
