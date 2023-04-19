@@ -32,7 +32,7 @@ const About = () => {
               </article>
             </div>
             <p>
-           I'm an experienced Full-Stack Software Engineer with over 2 years of Designing, Developing and Testing responsive web applications using MERN stack by employing Agile Methodologies.<br/><br/>
+           I'm an experienced Full-Stack Software Engineer with a passion for designing, developing, and testing responsive web applications. I specialize in MERN stack development and have a solid track record of employing Agile methodologies to deliver high-quality solutions. <br/><br/>
            I'm also a graduate student at San Jose State University pursuing Master of Science degree in Software Engineering. GPA: 3.88/4.00
             </p>
             <a href="#contact" className="btn btn-primary">Mail Me</a>
